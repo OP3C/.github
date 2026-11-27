@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="op3c-logo.png" alt="OP3C" width="120">
+<img src="https://raw.githubusercontent.com/OP3C/.github/main/profile/op3c-logo.png" alt="OP3C" width="120">
 
 # OP3C
 
